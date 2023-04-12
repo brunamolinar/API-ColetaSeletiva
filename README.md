@@ -38,7 +38,7 @@ Access the created directory and install the dependencies:
 ```
 After installation, run the application with the npm start command. Access the url http://localhost:3000 in the browser.
 
-<a href="https://coletaseletivabruna.netlify.app/">Teste a aplicação aqui!</a>
+<a href="https://coletaseletivabruna.netlify.app/">Try the aplication here!</a>
 
 
 Enjoy !<p style="font-size:100px">&#128513;</p>
