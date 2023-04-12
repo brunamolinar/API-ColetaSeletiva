@@ -1,6 +1,6 @@
 <h1 align="center"> API-ColetaSeletiva </h1>
 
-Design of a market place application that connects companies that treat organic and inorganic waste with people who need to dispose of their waste in an ecological way.
+Design of a web market place application that connects companies that treat organic and inorganic waste with people who need to dispose of their waste in an ecological way.
 
 Companies can register on the web platform by sending: <br>
 1. A picture of the collection point <br>
