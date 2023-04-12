@@ -38,4 +38,7 @@ Access the created directory and install the dependencies:
 ```
 After installation, run the application with the npm start command. Access the url http://localhost:3000 in the browser.
 
+![Vídeo sem título ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/130243571/231346377-5ddb1135-2978-4fbf-bdef-56849b0ec6b3.gif)
+
+
 Enjoy !<p style="font-size:100px">&#128513;</p>
