@@ -14,19 +14,28 @@ Companies can register on the web platform by sending: <br>
 Clone this repository and install it in your development environment using the following command in your terminal (choose an appropriate directory):
 
 ```
->git clone https://github.com/brunamolinar/API-Restful--Vendas.git
+>git clone https://github.com/brunamolinar/API-ColetaSeletiva.git
 ```
+Access the created directory:
+>cd API-ColetaSeletiva
+
+<h3> Backend </h3>
+
 Access the created directory and install the dependencies:
 
 ```
->cd API-Restful--Vendas
-
->yarn
-
-or
-
+>cd backend
 >npm install
 ```
-The application will be available at http://localhost:3333
+After installation, run the database migrations with the npm run knex:migrate command, also run the seed with npm run knex:seed and then run the application with the npm run dev command.
+
+<h3> Frontend </h3>
+
+Access the created directory and install the dependencies:
+```
+>cd frontend
+>npm install
+```
+After installation, run the application with the npm start command. Access the url http://localhost:3000 in the browser.
 
 Enjoy !<p style="font-size:100px">&#128513;</p>
